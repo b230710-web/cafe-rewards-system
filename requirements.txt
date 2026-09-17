@@ -1,0 +1,7 @@
+# Café Rewards Programme Counter System
+# Core requirements: ZERO external packages required!
+# Runs entirely using the standard Python 3 runtime (sqlite3, http.server, json, unittest).
+
+# Optional packages for production deployments or advanced extensions:
+# flask>=3.0.0
+# gunicorn>=21.2.0
